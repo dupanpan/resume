@@ -125,7 +125,7 @@
 ![](http://om8hmotom.bkt.clouddn.com/2017-06-08-204819.jpg)
 
 - 邮箱
-  - QQ：  ***369058464@qq.com***
-  - Gmail:  ***kylevanho@gmail.com***
+  - 网易：  ***kaoopan@163.com***
+ 
 
-- 手机： 13827460426
+- 手机： 17774480489
