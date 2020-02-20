@@ -79,11 +79,6 @@
 
 - **项目更多介绍+问题+解决方案请移步：** [链接Byemess](https://kylewh.github.io/2017/05/03/Byemess-%E5%9F%BA%E4%BA%8EReact-redux%E7%9A%84%E5%9C%A8%E7%BA%BFTodo%E5%BA%94%E7%94%A8/)
 
-- **上手react过程中做了这几件事**： 
-  - [用心的DEMO们](https://github.com/kylewh/Dive_Into_React_Redux)
-  - [我的Redux入门小书](https://kylewh.github.io/2017/04/21/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9C%ACredux%E5%B0%8F%E4%B9%A6/)
-  - [总结Redux思维导图](https://kylewh.github.io/2017/04/21/Redux%E5%B0%8F%E4%B9%A6%E7%B3%BB%E5%88%97-Redux%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/)
-
 ---
 
 ### 组件化商业首页
